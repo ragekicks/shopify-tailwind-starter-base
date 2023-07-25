@@ -50,7 +50,7 @@
           "settings": {
             "heading": "Authenticion guaranteed",
             "icon": "check_mark",
-            "content": "",
+            "content": "<p>Shop with Confidence: All of Our Products are Guaranteed 100% Authentic.<\/p>",
             "page": ""
           }
         },
@@ -77,7 +77,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Your order will be carefully wrapped with bubble wrap and extra padding to ensure the utmost protection for your items.<\/p>",
             "page": ""
           }
         },
