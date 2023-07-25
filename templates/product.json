@@ -59,7 +59,7 @@
           "settings": {
             "heading": "Shipping & Refunds",
             "icon": "truck",
-            "content": "<p>ALL SALES ARE FINAL. REFUNDS WILL ONLY BE GIVEN IF WRONG PRODUCT WAS RECEIVED.<\/p><p><\/p><p>All products will be shipped same \/ next business day from order date.<\/p>",
+            "content": "<ul><li>ALL SALES ARE FINAL. REFUNDS WILL ONLY BE GIVEN IF WRONG PRODUCT WAS RECEIVED.<\/li><\/ul><p><\/p><ul><li>All products will be shipped same \/ next business day from order date.<\/li><\/ul>",
             "page": ""
           }
         },
