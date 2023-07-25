@@ -46,7 +46,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>RAGEKICKS<\/strong><\/em>",
+            "heading": "<strong>RAGEKICKS<\/strong>",
             "heading_size": "h1"
           }
         },
