@@ -164,8 +164,8 @@
         "template--20206962311479__ac65e03d-4793-41ad-bdcf-9aa3760bb1ca-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "All products",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
