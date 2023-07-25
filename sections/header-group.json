@@ -8,27 +8,19 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
-        "c608a8f9-9da5-442f-a64c-4cf296495a58": {
-          "type": "announcement",
-          "settings": {
-            "text": "VOUCHED BY HUNDREDS",
+            "text": "SHOP WITH RAGEKICKS",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "c608a8f9-9da5-442f-a64c-4cf296495a58"
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "background-1",
         "show_line_separator": true,
         "show_social": true,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5
       }
     },
