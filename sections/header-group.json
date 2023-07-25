@@ -11,10 +11,18 @@
             "text": "Welcome to our store",
             "link": ""
           }
+        },
+        "c608a8f9-9da5-442f-a64c-4cf296495a58": {
+          "type": "announcement",
+          "settings": {
+            "text": "VOUCHED BY HUNDREDS",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "c608a8f9-9da5-442f-a64c-4cf296495a58"
       ],
       "settings": {
         "color_scheme": "background-1",
